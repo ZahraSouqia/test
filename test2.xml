@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vp_contact>
-  <root_group>
-    <group display_name="Sale1"/>
-    <group display_name="Friend"/>
-    <group display_name="Family"/>
-  </root_group>
-  <root_contact>
-    <contact display_name="Bella" other_number="" mobile_number="" office_number="8111" group_id_name="Sale1"/>
-    <contact display_name="Cindy" other_number="" mobile_number="" office_number="8116" group_id_name="Sale1"/>
-    <contact display_name="Miki" other_number="" mobile_number="" office_number="8108" group_id_name="Sale1"/>
-    <contact display_name="Lynn" other_number="" mobile_number="" office_number="8109" group_id_name="Sale1"/>
-    <contact display_name="Ian" other_number="" mobile_number="" office_number="8107" group_id_name="Sale1"/>
-    <contact display_name="Sharon" other_number="" mobile_number="" office_number="8113" group_id_name="Sale1"/>
-    <contact display_name="Sanborn" other_number="" mobile_number="" office_number="8106" group_id_name="Sale1"/>
-    <contact display_name="Jessica" other_number="" mobile_number="" office_number="8117" group_id_name="Sale1"/>
-    <contact display_name="Lily" other_number="" mobile_number="" office_number="3629" group_id_name="Friend"/>
-    <contact display_name="Lucy" other_number="" mobile_number="" office_number="3965" group_id_name="Family"/>
-  </root_contact>
-</vp_contact>
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>Bella</Name>
+    <Telephone>8111</Telephone>
+    <Mobile>0911222333</Mobile>
+    <Office>022334455</Office>
+    <Group>Sale1</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Cindy</Name>
+    <Telephone>8116</Telephone>
+    <Group>Sale1</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Lily</Name>
+    <Telephone>3629</Telephone>
+    <Group>Friend</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Lucy</Name>
+    <Telephone>3965</Telephone>
+    <Mobile>0933444555</Mobile>
+    <Group>Family</Group>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
