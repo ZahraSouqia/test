@@ -1,26 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneDirectory>
-  <DirectoryEntry>
-    <Name>Bella</Name>
-    <Telephone>8111</Telephone>
-    <Mobile>0911222333</Mobile>
-    <Office>022334455</Office>
-    <Group>Sale1</Group>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Cindy</Name>
-    <Telephone>8116</Telephone>
-    <Group>Sale1</Group>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Lily</Name>
-    <Telephone>3629</Telephone>
-    <Group>Friend</Group>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Lucy</Name>
-    <Telephone>3965</Telephone>
-    <Mobile>0933444555</Mobile>
-    <Group>Family</Group>
-  </DirectoryEntry>
-</YealinkIPPhoneDirectory>
+<?xml version="1.0" encoding="utf-8"?>
+<YealinkIPPhoneBook>
+  <Title>Company Directory</Title>
+  <Menu Name="Contacts">
+
+    <Unit Name="Chris Wild">
+      <Telephone Type="Office">5053</Telephone>
+      <Telephone Type="Mobile">5553</Telephone>
+    </Unit>
+
+    <Unit Name="Door Intercom">
+      <Telephone Type="Other">sip:123@10.10.0.200</Telephone>
+    </Unit>
+
+    <Unit Name="Provu">
+      <Telephone Type="Work">01484840048</Telephone>
+    </Unit>
+
+  </Menu>
+</YealinkIPPhoneBook>
