@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<vp_contact>
+<root_group>
+<group display_name="Sale1"/>
+<group display_name="Friend"/>
+<group display_name="Family"/>
+</root_group>
+<root_contact>
+<contact display_name="Bella" other_number="" mobile_number="" office_number="8111" group_id_name="Sale1"/> <contact display_name="Cindy" default_photo="Resource:icon_family_b.png" other_number="" mobile_number="" office_number="8116" group_id_name="Sale1"/> <contact display_name="Miki" default_photo="Resource:icon_family_b.png"
+other_number="" mobile_number="" office_number="8108" group_id_name="Sale1"/> <contact display_name="Lynn" default_photo="Resource:icon_family_b.png"
+other_number="" mobile_number="" office_number="8109" group_id_name="Sale1"/> <contact display_name="Ian" default_photo="Resource:icon_family_b.png" other_number=""
+mobile_number="" office_number="8107" group_id_name="Sale1"/>
+<contact display_name="Sharon" default_photo="Resource:icon_friend_b.png"
+other_number="" mobile_number="" office_number="8113" group_id_name="Sale1"/>
+<contact display_name="Sanborn" default_photo="Resource:icon_blacklist_b.png"
+other_number="" mobile_number="" office_number="8106" group_id_name="Sale1"/> <contact display_name="Jessica" default_photo="Config:photo.png" other_number=""
+mobile_number="" office_number="8117" group_id_name="Sale1"/>
+<contact display_name="Lily" default_photo="Config:photo.png" other_number=""
+mobile_number="" office_number="3629" group_id_name="Friend"/>
+<contact display_name="Lucy" default_photo="Config:photo.png" other_number='
+mobile_number="" office_number="3965" group_id_name="Family"/>
+</root_contact>
+</vp_contact>
