@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YealinkIPPhoneBook>
+  <Title>Company Directory</Title>
+  <Menu Name="Haus Jungfernheide">
+
+    <Unit Name="Wohnbereich1">
+      <Telephone>1234</Telephone>
+    </Unit>
+
+    <Unit Name="Wohnbereich2">
+      <Telephone>03036702330159</Telephone>
+    </Unit>
+
+  </Menu>
+</YealinkIPPhoneBook>
