@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YealinkIPPhoneBook>
+  <Title>Company Directory</Title>
+  <Menu Name="Contacts">
+
+    <Unit Name="Chris Wild">
+      <Telephone Type="Office">5053</Telephone>
+      <Telephone Type="Mobile">5553</Telephone>
+    </Unit>
+
+    <Unit Name="Door Intercom">
+      <Telephone Type="Other">sip:123@10.10.0.200</Telephone>
+    </Unit>
+
+    <Unit Name="Provu">
+      <Telephone Type="Work">01484840048</Telephone>
+    </Unit>
+
+  </Menu>
+</YealinkIPPhoneBook>
