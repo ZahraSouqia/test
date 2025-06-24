@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <YealinkIPPhoneBook>
   <Title>Company Directory</Title>
-  <Menu Name="Contacts">
+  <Menu Name="Haus Jungfernheide">
 
-    <Unit Name="Chris Wild">
-      <Telephone Type="Office">5053</Telephone>
-      <Telephone Type="Mobile">5553</Telephone>
+    <Unit Name="Wohnbereich1">
+      <Telephone >030/ 3670 2330-149</Telephone>
     </Unit>
 
-    <Unit Name="Door Intercom">
-      <Telephone Type="Other">sip:123@10.10.0.200</Telephone>
+    <Unit Name="Wohnbereich2">
+      <Telephone>030/ 3670 2330-159</Telephone>
     </Unit>
 
     <Unit Name="Provu">
