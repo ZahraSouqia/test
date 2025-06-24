@@ -4,11 +4,11 @@
   <Menu Name="Haus Jungfernheide">
 
     <Unit Name="Wohnbereich1">
-      <Telephone >030/ 3670 2330-149</Telephone>
+      <Telephone >1234/Telephone>
     </Unit>
 
     <Unit Name="Wohnbereich2">
-      <Telephone>030/ 3670 2330-159</Telephone>
+      <Telephone>03036702330159</Telephone>
     </Unit>
 
     <Unit Name="Provu">
