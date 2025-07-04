@@ -1,8 +1,10 @@
-<DirectoryEntry>
-       <Name>Zahra</Name>
-       <Telephone>123456</Telephone>
-</DirectoryEntry>
-<DirectoryEntry>
-       <Name>Ahmad</Name>
-       <Telephone>654321</Telephone>
-</DirectoryEntry>
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>Lily</Name>
+    <Telephone>123456</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Jim</Name>
+    <Telephone>654321</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
