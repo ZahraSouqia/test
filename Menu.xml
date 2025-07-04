@@ -1,8 +1,15 @@
-<MenuItem>
-     <Name > Market</Name>
-     <URL > https://raw.githubusercontent.com/ZahraSouqia/test/refs/heads/main/Market.xml</URL>
-</MenuItem>
-<SoftKeyItem>
-     <Name>1</Name>
-     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/refs/heads/main/Propaganda.xml</URL>
-</SoftKeyItem>
+<Menu>
+  <MenuItem>
+    <Name>Market</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/refs/heads/main/Market.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Propaganda</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/refs/heads/main/Propaganda.xml</URL>
+  </MenuItem>
+  <!-- optional: SoftKeyItem for quick-access -->
+  <SoftKeyItem>
+    <Name>1</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/refs/heads/main/Propaganda.xml/URL>
+  </SoftKeyItem>
+</Menu>
