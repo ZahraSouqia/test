@@ -3,8 +3,4 @@
     <Name>Department 1</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/refs/heads/main/Department1.xml</URL>
   </MenuItem>
-  <MenuItem>
-    <Name>Department 2</Name>
-    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/refs/heads/main/Department2.xml</URL>
-  </MenuItem>
 </Menu>
