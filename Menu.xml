@@ -1,8 +1,8 @@
 <YealinkIPPhoneMenu>
-<Title>Company</Title>
+<Title>Praxisberlin</Title>
   <MenuItem>
-    <Name>Market</Name>
-    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Market.xml</URL>
+    <Name>Haus Jahreszeiten</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Jahreszeiten.xml</URL>
   </MenuItem>
   <MenuItem>
     <Name>Propaganda</Name>
