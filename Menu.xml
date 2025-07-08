@@ -8,8 +8,31 @@
     <Name>Haus Wilmersdorf</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Wilmersdorf.xml</URL>
   </MenuItem>
-    <MenuItem>
+  <MenuItem>
     <Name>Haus Jungfernheide</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Jungfernheide.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Weidenweg</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Weidenweg.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Teichstraße</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Teichstrasse.xml</URL>
+  </MenuItem>
+    </MenuItem>
+  <MenuItem>
+    <Name>Haus Ullstein</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Ullstein.xml</URL>
+  </MenuItem>
+    </MenuItem>
+  <MenuItem>
+    <Name>Herthasee</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Herthasee.xml</URL>
+  </MenuItem>
+    </MenuItem>
+  <MenuItem>
+    <Name>Haus Friedenshöhe</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Friedenshoehe.xml</URL>
   </MenuItem>
 </YealinkIPPhoneMenu>
