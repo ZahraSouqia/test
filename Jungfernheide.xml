@@ -1,0 +1,30 @@
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>Wohnbereich 1</Name>
+    <Telephone>03036702330149</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Wohnbereich 2</Name>
+    <Telephone>03036702330159</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Wohnbereich 3</Name>
+    <Telephone>03036702330169</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Telefon 1</Name>
+    <Telephone>03036702330101</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax Zentral 1</Name>
+    <Telephone>03036702330109</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Siemensstadt Apotheke</Name>
+    <Telephone>0303822076</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax Siemensstadt Apotheke</Name>
+    <Telephone>0303821921</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
