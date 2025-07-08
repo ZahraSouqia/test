@@ -5,7 +5,11 @@
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Jahreszeiten.xml</URL>
   </MenuItem>
   <MenuItem>
-    <Name>Propaganda</Name>
-    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Propaganda.xml</URL>
+    <Name>Haus Wilmersdorf</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Wilmersdorf.xml</URL>
+  </MenuItem>
+    <MenuItem>
+    <Name>Haus Jungfernheide</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Jungfernheide.xml</URL>
   </MenuItem>
 </YealinkIPPhoneMenu>
