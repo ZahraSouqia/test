@@ -26,11 +26,13 @@
   <DirectoryEntry>
    <Name>Fax Zentral 1</Name>
    <Telephone>030847119141</Telephone>
-</DirectoryEntry>
+  </DirectoryEntry>
   <DirectoryEntry>
    <Name>Mirbach-Apotheke</Name>
    <Telephone>0304224025</Telephone>
-    <Name>Fax Mirbach-Apotheke</Name>
+  </DirectoryEntry>
+  <DirectoryEntry>
+   <Name>Fax Mirbach-Apotheke</Name>
    <Telephone>03041724652</Telephone>
 </DirectoryEntry>
 </YealinkIPPhoneDirectory>
