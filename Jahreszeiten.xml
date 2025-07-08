@@ -35,4 +35,10 @@
    <Name>Fax Mirbach-Apotheke</Name>
    <Telephone>03041724652</Telephone>
 </DirectoryEntry>
+ <DirectoryEntry>
+   <Name>Telefon 1</Name>
+   <Telephone>030847119126</Telephone>
+</DirectoryEntry>
+
+  
 </YealinkIPPhoneDirectory>
