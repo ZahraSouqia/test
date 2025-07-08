@@ -20,26 +20,23 @@
     <Name>Haus Teichstraße</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Teichstrasse.xml</URL>
   </MenuItem>
-    </MenuItem>
   <MenuItem>
     <Name>Haus Ullstein</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Ullstein.xml</URL>
   </MenuItem>
-    </MenuItem>
   <MenuItem>
     <Name>Herthasee</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Herthasee.xml</URL>
   </MenuItem>
-    </MenuItem>
   <MenuItem>
     <Name>Haus Friedenshöhe</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Friedenshoehe.xml</URL>
   </MenuItem>
-    <MenuItem>
+  <MenuItem>
     <Name>Haus Rüsternallee</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Ruesternallee.xml</URL>
   </MenuItem>
-    <MenuItem>
+  <MenuItem>
     <Name>Haus Waldfriede</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Waldfriede.xml</URL>
   </MenuItem>
@@ -47,7 +44,7 @@
     <Name>Haus Schwyzer Straße</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/SchwyzerStrasse.xml</URL>
   </MenuItem>
-    <MenuItem>
+  <MenuItem>
     <Name>Haus Pankow</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Pankow.xml</URL>
   </MenuItem>
