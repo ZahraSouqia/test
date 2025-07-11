@@ -76,4 +76,28 @@
     <Name>Nova Vita Pflegerheim Im Paulinenhaus</Name>
     <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Nova.xml</URL>
   </MenuItem>
+  <MenuItem>
+    <Name>Pflegeheim "Weißensee"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Weissensee.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Pflegeheim "Amendestraße"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Amendestrasse.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus "Alma Via"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Almavia.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus "Ostseeplatz"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Ostseeplatz.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus am Weinbergsweg</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Weinbergsweg.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus am Wiesengrund</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/refs/heads/main/Wiesengrund.xml</URL>
+  </MenuItem>
 </YealinkIPPhoneMenu>
