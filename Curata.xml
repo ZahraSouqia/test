@@ -1,5 +1,13 @@
 <YealinkIPPhoneDirectory>
   <DirectoryEntry>
+    <Name>Fax Zentral</Name>
+    <Telephone>0308856122</Telephone>
+  </DirectoryEntry>
+    <DirectoryEntry>
+    <Name>Telefon 1</Name>
+    <Telephone>03088576178</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
     <Name>Fax WB1</Name>
     <Telephone>03088576122</Telephone>
   </DirectoryEntry>
@@ -29,11 +37,11 @@
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>WB3</Name>
-    <Telephone>030/88576173</Telephone>
+    <Telephone>03088576173</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>WB3</Name>
-    <Telephone>030/88576135</Telephone>
+    <Telephone>03088576135</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>WB5</Name>
