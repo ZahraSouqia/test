@@ -1,7 +1,11 @@
 <YealinkIPPhoneDirectory>
   <DirectoryEntry>
-    <Name>Telefon 1</Name>
-    <Telephone>03084718884645</Telephone>
+    <Name>Frau Mitscherling(Leitung)</Name>
+    <Telephone>030847188846</Telephone>
+  </DirectoryEntry>
+    <DirectoryEntry>
+    <Name>Frau Kregel (PDL)</Name>
+    <Telephone>030847188845</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>Staufen-Apotheke</Name>
